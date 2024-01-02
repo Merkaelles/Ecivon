@@ -1,1 +1,2 @@
-新手爬虫，爬取猎聘上python相关的工作信息
+Crawl liepin
+
